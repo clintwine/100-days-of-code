@@ -1,13 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: July 19, 2017 
+**Today's Progress**: i was faced with a situation at work
+where i needed to identify ports with a registration failure and then manually lock them.
+I used python.
+I learnt how to use open(), For - in loop to read a file object
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** It was a simple program at the end but i did struggle, was worth it -- working 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://repl.it/J9Uz/3
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
